@@ -1,10 +1,12 @@
-#STT_AI_IMAGE_CRAETE
+## STT_AI_IMAGE_CRAETE
 
-+음성인식을 통한 AI이미지 생성
+
++ STT_AI_IMAGE_CRAETE는 음성인식을 통한 AI이미지 생성 프로젝트입니다
+
 
 _________
 
-#Azure Service와 Karlo를 사용한 이미지 생성 프로젝트
+###  Azure Service와 Karlo를 사용한 이미지 생성 프로젝트 
 
 1.Azure의 STT,TTS 를 사용하여 사용자의 음성을 텍스트로 변환
 
