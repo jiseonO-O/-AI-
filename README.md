@@ -25,14 +25,14 @@ Azure 에서 사용한 기능은 다음과 같습니다 TTS, STT , Translator �
 _______
 
 ### 기술 스택
-+Python
++ Python
 
-+NLTK
++ NLTK
 
-+Kkma (KoNLPy)
++ Kkma (KoNLPy)
 
-+Azure(TTS,STT,Translator)
++ Azure(TTS,STT,Translator)
 
-+Kakao API(Karlo)
++ Kakao API(Karlo)
 
-+PIL
++ PIL
